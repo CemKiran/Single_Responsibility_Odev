@@ -1,0 +1,15 @@
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\bin\Debug\net7.0\Single_Responsibility_Odev.exe
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\bin\Debug\net7.0\Single_Responsibility_Odev.deps.json
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\bin\Debug\net7.0\Single_Responsibility_Odev.runtimeconfig.json
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\bin\Debug\net7.0\Single_Responsibility_Odev.dll
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\bin\Debug\net7.0\Single_Responsibility_Odev.pdb
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.AssemblyInfo.cs
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.dll
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\refint\Single_Responsibility_Odev.dll
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.pdb
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\Single_Responsibility_Odev.genruntimeconfig.cache
+C:\Users\hasan\Desktop\Cem\Single_Responsibility_Odev\obj\Debug\net7.0\ref\Single_Responsibility_Odev.dll

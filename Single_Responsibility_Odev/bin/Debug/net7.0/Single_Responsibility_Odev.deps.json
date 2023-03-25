@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Single_Responsibility_Odev/1.0.0": {
+        "runtime": {
+          "Single_Responsibility_Odev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Single_Responsibility_Odev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
